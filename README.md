@@ -1,2 +1,2 @@
-# student-productivity-discord-bot
-This is a student productivity discord bot, written for the purpose of a hackathon, which includes features such as a timer, a translator and a mathematics questions solver given inputs.
+# Affan Amir - Projects
+Hi! My name is Affan. I'm an aspring CS/SE student looking forward to learning and developing my skills in University.
